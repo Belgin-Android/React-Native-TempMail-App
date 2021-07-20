@@ -16,7 +16,7 @@
     "@react-navigation/stack": "^5.10.0",
     "moment": "^2.29.1",
     "react": "16.13.1",
-    "react-native": "0.63.3",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.8.0",
     "react-native-raw-bottom-sheet": "^2.2.0",
     "react-native-render-html": "^4.2.4",
